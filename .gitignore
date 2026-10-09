@@ -1,0 +1,16 @@
+*.tmp
+.last_*
+.admin_alert.tmp
+.dart_tool/
+.flutter-plugins
+.packages
+build/
+*.lock
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+backup/
+backups/
+Pos-Billing-App-Naqdi-PRO-main/
